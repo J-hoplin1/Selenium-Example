@@ -1,5 +1,6 @@
 Selenium Module examples
 ===
+- Form이 Ajax(Asynchronous JavScript And XML)를 사용하여 웹서버와 통신하는 URL을 이용해주세요
 
 - Selenium 모듈을 사용해보면서 작성해본 예제 코드들입니다.
 
